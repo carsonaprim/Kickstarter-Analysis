@@ -8,9 +8,10 @@ Our goal with this project was to analyze the information given in the spreadshe
 
 ### Analysis of Outcomes Based on Launch Date
 Performing an analysis on the data based on the time of year that each Kickstarter was introduced, we started by sorting the data to just the useful information, the Theater category. Then using our pivot table to sort out the data by month started, we were able to show the different rates of success throughout the year. 
-
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111708233/189954135-acc80af2-3621-43ab-85a8-1498224a70ba.png)
 ### Analysis of Outcomes Based on Goals
 Similarly to the prior portion, we started by sorting out the data to have just what we need, using the "countifs" function in Excel to get our data on plays. Once we had it isolated, we were able to calculate percentages of success, failure, and canceled based on how high the goal of the original Kickstarter was, then give a helpful graphic to go along with it.
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111708233/189954189-5e89e2d6-f0c8-4913-b042-04757647e801.png)
 ### Challenges and Difficulties Encountered
 I encountered a few challenges, first with isolating the percentages to make the line chart without also having the total counts involved, but using the command click on mac solved that fairly quickly. Then a personal error in which I overlooked the category restriction had my data way too large and it looked entirely wrong, but with another look over my spreadsheet I was able to see the problem and fix it quickly.
 ## Results
